@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Youtube Popup Blocker",
-  "description": "Blocks \"Ad blockers\" Youtube popups",
   "version": "0.1.0",
+
   "action": {
     "default_icon": {
       "16": "images/icon-16.png",
@@ -11,6 +11,9 @@
       "128": "images/icon-128.png"
     }
   },
+  "description": "Blocks \"Ad blockers\" Youtube popups",
+  "homepage_url": "https://github.com/LouisLanganay/youtube-hide-blocker-popup",
+
   "background": {
     "service_worker": "background.js"
   },
