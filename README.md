@@ -7,7 +7,7 @@ The **YouTube Hide Blocker Popup** Chrome extension is a simple yet handy tool t
 Download the latest release in the [releases section](https://github.com/LouisLanganay/youtube-hide-blocker-popup/releases) or clone the repo.
 
 Steps to install the extension:
-- Go to chrome extensions tab [chrome://extensions/](chrome://extensions/)
+- Go to chrome extensions tab (open chrome://extensions/)
 - Enable developer mode (top right corner)
 - Unzip the extension folder
 - Click on "Load unpacked" and select the unzipped folder of the extension
