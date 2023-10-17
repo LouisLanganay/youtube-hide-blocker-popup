@@ -1,6 +1,11 @@
 # YouTube Hide Blocker Popup Chrome Extension
 
 The **YouTube Hide Blocker Popup** Chrome extension is a simple yet handy tool that helps you remove annoying pop-up blockers on YouTube.
+<div style="display: flex; gap: 10px">
+  <img src="https://img.shields.io/github/downloads/LouisLanganay/youtube-hide-blocker-popup/total?style=for-the-badge" height="20px" />
+  <img src="https://img.shields.io/github/v/release/LouisLanganay/youtube-hide-blocker-popup?style=for-the-badge" height="20px" />
+  <img src="https://img.shields.io/github/stars/LouisLanganay/youtube-hide-blocker-popup?style=for-the-badge" height="20px" />
+</div>
 
 ## 💾 Installation Guide
 
