@@ -10,4 +10,4 @@ setInterval(() => {
     console.log('%cBackdrop found and removed !', 'color: #75FF6E');
     popup.remove();
   }
-}, 5000);
+}, 1000);
