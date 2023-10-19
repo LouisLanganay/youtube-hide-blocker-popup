@@ -9,5 +9,11 @@ setInterval(() => {
   if (popup) {
     console.log('%cBackdrop found and removed !', 'color: #75FF6E');
     popup.remove();
+
+    const playerButton = document.querySelector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button');
+    if (playerButton) {
+      console.log('%cPlayer button found and clicked !', 'color: #75FF6E');
+      playerButton.click();
+    }
   }
 }, 1000);
